@@ -8,7 +8,7 @@ const App = () => {
   return (
     <div className="min-h-screen bg-gray-500">
       <h2 className="text-center text-4xl font-bold text-blue-900">
-        TailwindCSS + React
+        TailwindCSS + React ssss
       </h2>
       <Todos />
     </div>
